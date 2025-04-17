@@ -47,8 +47,3 @@ Ao selecionar a opção 7, o usuário pode visualizar o histórico das últimas 
 - **Histórico de conversões**: O histórico das conversões é armazenado em um **ArrayList**, com limite de 6 conversões. Se o número de conversões exceder esse limite, a primeira conversão é excluída.
 - **Consulta de taxas de câmbio em tempo real**: Utiliza a API **ExchangeRate** para obter as taxas de câmbio e realizar as conversões.
 
-## **Instalação**
-
-### 1. Clone este repositório:
-```bash
-git clone https://github.com/usuario/repo.git
